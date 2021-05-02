@@ -15,9 +15,6 @@ When I'm free, I love doing some amateur astronomy with my telescope, and I'm an
 
 I'm not currently actively looking for a new role, but I'm open to offers especially in the Aerospace and space exploration fields.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact
 
