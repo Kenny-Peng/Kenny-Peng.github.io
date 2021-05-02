@@ -28,7 +28,7 @@ description:           >
   Kenny Peng's personal site filled with his info and musings.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Kenny Peng's personal site filled with his info and musings.
 
 # A list of keywords for your blog
 keywords:              []
@@ -41,8 +41,9 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <Kenny> <Peng>
-  email:               <Kenny@kennypeng.dev>
+  name:                Kenny Peng
+  email:               Kenny@kennypeng.dev
+  picture:  /assets/img/author.png
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
