@@ -1,15 +1,19 @@
 ---
-layout: page
+layout: default
 title: Home
 ---
 
+<H1>Welcome!</H1>
 <p>
-    wow this is amazing how could this be?
-    <h2>
-        we were so young
-
-    </h2>
-    this is pog
-    <h3>and now we're gone</h3>
-    this is amazing
+    This website is currently dedicated to showing off samples of my writing.
 </p>
+
+<H2>Writing Samples Available</H2>
+<ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+</ul>
+
