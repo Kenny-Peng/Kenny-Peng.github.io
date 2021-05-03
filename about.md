@@ -18,6 +18,6 @@ I'm not currently actively looking for a new role, but I'm open to offers especi
 
 ### Contact
 
-<a href="https://www.linkedin.com/in/kenny-peng/">Linkedin</a>
+<a href="https://www.linkedin.com/in/kenny-peng/">LinkedIn</a>
 <br />
 [Kenny@kennypeng.dev](mailto:Kenny@kennypeng.dev)
