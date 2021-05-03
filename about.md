@@ -7,7 +7,7 @@ permalink: /about/
 
 <H1>About</H1>
 I'm a senior Computer Science student at George Mason University with an interest in full-stack and embedded development. I have experience
-doing development work at multiple different companies doing a veriety of roles such as DevOps and web development.
+doing development work at multiple different companies doing a variety of roles such as DevOps and web development.
 
 During college semesters where I'm not working, I'm involved in campus life as part of organizations such as the GMU Satellite Communications Club and Game Analysis & Design Interest Group. 
 
